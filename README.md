@@ -1,2 +1,3 @@
-# Calculo-de-Metricas-de-Avaliacao-de-Aprendizado-
-Cálculo de Métricas de Avaliação de Aprendizado  
+# Cálculo de Métricas de Avaliação de Aprendizado feito para o desafio de código da DIO
+
+
